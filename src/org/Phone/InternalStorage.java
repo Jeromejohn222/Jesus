@@ -10,6 +10,7 @@ public class InternalStorage extends ExternalStorage {
 	public void ramSize() {
 		// TODO Auto-generated method stub
 		System.out.println("Ram size is 2 gb");
+		System.out.println("cbcbjcbjb");
 	}
 
 	public static void main(String[] args) {
